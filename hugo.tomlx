@@ -1,0 +1,4 @@
+baseURL = 'https://ansgarkock.de'
+languageCode = 'de-de'
+title = 'Ansgar Leonard Kock'
+theme = "hugo-theme-monochrome"
