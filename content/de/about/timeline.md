@@ -22,7 +22,7 @@ Bis August 2023 habe ich an der HAW Hamburg Wirtschaftsinformatik studiert.
 Thema meiner Abschlussarbeit: "Entwicklung einer nativen, mobilen Applikation zur elektronischen Überwachung von Atemschutzeinsätzen in der Feuerwehr" – Note: sehr gut
 * **EINZELUNTERNEHMER *Grafikdesign* (2020 - 2023)**      
 Ich helfe anderen Einzelunternehmern und KMU dabei, sich online zu präsentieren. Ich richte Webserver, E-Mail-Adressen etc. ein und erstelle Visitenkarten sowie andere Werbeartikel.
-* **CIMPA PLM Services (a Sopra Steria Company) *IT-Infrasturce Summer Intern* (2022)** 
+* **CIMPA PLM Services (a Sopra Steria Company) *IT-Infrasturce Summer Intern* (2022)**       
 In dem Praktikum habe ich u.a. in der Netzwerkmigration gearbeitet.
 * **WIKIPEDIA *Aktiver Sichter und Autor* (seit 2016)**        
 In dem Wiki schreibe ich eigene Artikel, verbessere und aktualisiere Informationen und übernehme als aktiver Sichter die Sichtung von Änderungen, die von Benutzern vorgenommen worden sind (und revidiere sie ggfs.).
