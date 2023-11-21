@@ -4,15 +4,13 @@ balloon_img_src: "icons/ansgar.jpg"
 balloon_img_src_dark: "icons/ansgar.jpg"
 balloon_circle: true
 balloon_resources: "/about"
-description: "Demo site of hugo-theme-monochrome"
+description: "Website from Ansgar Leonard Kock"
 zooming_js: false
 keywords:
-- hugo
-- hugo theme
-- hugo theme monochrome
-- clean
-- responsive
-- programmer-friendly
+- ansgar
+- kock
+- ansgar kock
+- ansgar leonard kock
 ---
 
 {{< icon vendor="feather" name="github" link="https://github.com/alkock" >}}
