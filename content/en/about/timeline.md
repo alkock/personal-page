@@ -22,6 +22,8 @@ I studied Business Informatics at HAW Hamburg until August 2023.
 Topic of my thesis: "Development of a native mobile application for the electronic monitoring of SCBA operations in the fire service" - grade: very good
 * **SOLE PROPRIETORSHIP *Graphic Design* (2020 - 2023)**      
 I helped other sole traders and SMEs to present themselves online. I set up web servers, e-mail addresses etc. and create business cards and other promotional items.
+* **CIMPA PLM Services (a Sopra Steria Company) *IT-Infrasturce Summer Intern* (2022)** 
+During my internship, I worked in network migration, among other things.
 * **WIKIPEDIA *Extended confirmed user and author* (since 2016)**        
 In the wiki, I write my own articles, improve and update information and, as an active reviewer, review changes made by users (and revise them if necessary).
 * **FIRE BRIGADE OF HAMBURG *Squad leader and machine operator* (since 2012)**      
