@@ -4,7 +4,7 @@ balloon_img_src: "icons/ansgar.jpg"
 balloon_img_src_dark: "icons/ansgar.jpg"
 balloon_circle: true
 balloon_resources: "/about"
-description: "Webseite von Asngar Leonard Kock"
+description: "Webseite von Ansgar Leonard Kock"
 zooming_js: false
 keywords:
 - ansgar
