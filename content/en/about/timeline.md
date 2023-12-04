@@ -20,8 +20,9 @@ I have been studying for a Master's degree in Computer Science at the University
 * **HAW HAMBURG *Business Informatics, B.Sc.* (2020-2023)**     
 I studied Business Informatics at HAW Hamburg until August 2023.           
 Topic of my thesis: "Development of a native mobile application for the electronic monitoring of SCBA operations in the fire service" - grade: very good
-* **SOLE PROPRIETORSHIP *Graphic Design* (2020 - 2023)**      
-I helped other sole traders and SMEs to present themselves online. I set up web servers, e-mail addresses etc. and create business cards and other promotional items.
+* **SOLE PROPRIETORSHIP *Software-Engineer* (2020 - 2023)**      
+I worked freelance on various projects between 2020 and 2023.
+Tech-Stack: Java · Bash · Frontend-Entwicklung · WordPress · Photoshop
 * **CIMPA PLM Services (a Sopra Steria Company) *IT-Infrasturce Summer Intern* (2022)**       
 During my internship, I worked in network migration, among other things.
 * **WIKIPEDIA *Extended confirmed user and author* (since 2016)**        

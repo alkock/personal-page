@@ -20,8 +20,9 @@ Seit Oktober 2023 studiere ich an der Universität Rostock im Master Informatik.
 * **HAW HAMBURG *Wirtschaftsinformatik, B.Sc.* (2020-2023)**     
 Bis August 2023 habe ich an der HAW Hamburg Wirtschaftsinformatik studiert.     
 Thema meiner Abschlussarbeit: "Entwicklung einer nativen, mobilen Applikation zur elektronischen Überwachung von Atemschutzeinsätzen in der Feuerwehr" – Note: sehr gut
-* **EINZELUNTERNEHMER *Grafikdesign* (2020 - 2023)**      
-Ich helfe anderen Einzelunternehmern und KMU dabei, sich online zu präsentieren. Ich richte Webserver, E-Mail-Adressen etc. ein und erstelle Visitenkarten sowie andere Werbeartikel.
+* **EINZELUNTERNEHMER *Software-Engineer* (2020 - 2023)**      
+Ich habe zwischen 2020 und 2023 in verscheidenen Projekten freiberuflich gearbeitet.      
+Tech-Stack: Java · Bash · Frontend-Entwicklung · WordPress · Photoshop
 * **CIMPA PLM Services (a Sopra Steria Company) *IT-Infrasturce Summer Intern* (2022)**       
 In dem Praktikum habe ich u.a. in der Netzwerkmigration gearbeitet.
 * **WIKIPEDIA *Aktiver Sichter und Autor* (seit 2016)**        
