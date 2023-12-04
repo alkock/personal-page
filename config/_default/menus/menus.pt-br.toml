@@ -1,10 +1,10 @@
 [[navbar]]
   identifier = "/"
-  name = "Welcome"
-  url = "/en/"
+  name = "bem-vindo"
+  url = "/pt-br/"
   weight = 1
 # [[navbar]]
 #  identifier = "blog"
-#  name = "Blog"
+#  name = "blog"
 #  url = "blog"
 #  weight = 2

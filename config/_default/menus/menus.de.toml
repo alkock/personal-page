@@ -3,8 +3,8 @@
   name = "Willkommen"
   url = "/"
   weight = 1
-[[navbar]]
-  identifier = "blog"
-  name = "Blog"
-  url = "/blog/"
-  weight = 2
+#[[navbar]]
+#  identifier = "blog"
+#  name = "Blog"
+#  url = "/blog/"
+#  weight = 2
