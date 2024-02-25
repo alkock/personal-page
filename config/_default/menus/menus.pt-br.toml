@@ -1,6 +1,6 @@
 [[navbar]]
   identifier = "/"
-  name = "bem-vindo"
+  name = "Bem-vindo"
   url = "/pt-br/"
   weight = 1
 # [[navbar]]
