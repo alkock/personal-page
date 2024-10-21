@@ -22,7 +22,7 @@ I studied Business Informatics at HAW Hamburg until August 2023.
 Topic of my thesis: "Development of a native mobile application for the electronic monitoring of SCBA operations in the fire service" - grade: very good
 * **SOLE PROPRIETORSHIP *Software-Engineer* (2020 - 2023)**      
 I worked freelance on various projects between 2020 and 2023.
-Tech-Stack: Java · Bash · Frontend-Entwicklung · WordPress · Photoshop
+Tech-Stack: Java · Bash · Frontend-development · WordPress · Photoshop
 * **CIMPA PLM Services (a Sopra Steria Company) *IT-Infrasturce Summer Intern* (2022)**       
 During my internship, I worked in network migration, among other things.
 * **WIKIPEDIA *Extended confirmed user and author* (since 2016)**        

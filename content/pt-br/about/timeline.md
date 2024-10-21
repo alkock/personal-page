@@ -23,7 +23,7 @@ Estudei Informática empresarial na HAW Hamburg até agosto de 2023.
 Tópico da minha tese: "Desenvolvimento de um aplicativo móvel nativo para o monitoramento eletrônico de operações de sistemas respiratórios pesados no serviço de bombeiros" - nota: muito bom
 * **EMPRESA INDIVIDUAL *Engenheiro de software* (2020 - 2023)**      
 I worked freelance on various projects between 2020 and 2023.     
-Pilha tecnológica: Java · Bash · Frontend-Entwicklung · WordPress · Photoshop
+Pilha tecnológica: Java · Bash · Desenvolvimento front-end · WordPress · Photoshop
 * **CIMPA PLM Services (uma empresa da Sopra Steria) *Estagiário de verão da IT-Infrasturce* (2022)**       
 Durante meu estágio, trabalhei na migração de redes, entre outras coisas.
 * **WIKIPEDIA *Usuário e autor confirmados estendidos* (desde 2016)**        
