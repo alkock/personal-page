@@ -16,4 +16,4 @@ keywords:
 {{< icon vendor="feather" name="github" link="https://github.com/alkock" >}}
 {{< icon vendor="feather" name="mail" link="mailto:hallo@ansgarkock.de" >}}
 {{< icon vendor="feather" name="linkedin" link="https://www.linkedin.com/in/ansgarkock/" >}}
-{{< icon vendor="feather" name="key" link="https://ansgarkock.de/pgp" >}}
+{{< icon vendor="feather" name="key" link="/pgp/" >}}
