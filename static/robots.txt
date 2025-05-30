@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /impressum/
+Sitemap: https://about.ansgarkock.de/sitemap.xml
+
